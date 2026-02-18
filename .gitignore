@@ -1,0 +1,7 @@
+dump.rdb
+.clang-tidy
+/cmake-build-default
+.idea
+reports/.venv
+reports/data
+*.lock
